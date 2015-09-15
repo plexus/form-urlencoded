@@ -1,0 +1,13 @@
+{
+  "name": "plexus.form-urlencoded",
+  "description": "Encodes `x-www-form-urlencoded` string data",
+  "authors": ["Chris <chris@bumblehead.com>", "James <james@blashill.com>"],
+  "homepage": "https://github.com/iambumblehead/form-urlencoded",
+  "license": "MIT",
+  "moduleType": "node",
+  "main": "form-urlencoded.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plexus/form-urlencoded.git"
+  }
+}
